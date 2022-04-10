@@ -1,0 +1,15 @@
+{
+    "none": {
+      "name": "none",
+      "timeOfCheat": 1638983320,
+      "reason": "none",
+      "report_id": "none",
+      "identifier": [
+        "steam:xxxx",
+        "license:xxxx",
+        "discord:xxxxx",
+        "license2:xxxx",
+        "ip:xxxxx"
+      ]
+    }
+}
